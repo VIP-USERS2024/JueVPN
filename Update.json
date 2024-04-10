@@ -1,7 +1,7 @@
 {
 "Reward": "ca-app-pub-3940256099942544/5224354917",
 "Inter": "ca-app-pub-8283881532539011/3706824991",
-"version": 2,
+"version": 3,
 "message": "What's new \nAdded new server",
 
 "files": [
@@ -18,8 +18,8 @@
 
 {
         //server-3
-      "config": "rn4OZDotqZN37H7o8VdU6xeV28bqzFxGtHTdbm8WK0OL4YG5b9YvLVwPeosCN8mLAhT/x9ymKLAuxH+RHpQx5zNn5PSgzLmMyQ+nQev5Sju8FLNhlCmBiZQdlofoy1vsdAt/eUaBlmiMt3X+SE+CxsVmfe2gbW/CcBPZMI/rR8mdJ0IucIEq0YUbP4z56PvKTgWL6d1gN7Y+f87lhnB6zb170iR4IXao8JEyGE2cKbKeolUA7qWfVZecx1jVSnyxYEFTc7aE2HaAt0cqxAIH8dYkBZu4HuVfpyvLM5xopdGPWdJglQD31oiqLwSEJZVLgBeywK+92X6QdWhkuv5jMRjvRFodmF4tS0Zfsr6UVwYqGa6nbuKCpxv7w5baG4NziVNLmNJDFWJ3bJsnmaI9GVNOIR9hCAGc22sMGgCU9EM="
-      }     
+      "config": "T+brbgUViPxekS/lDMbsHhgMzjF7IzhSLX5EzntbpzNM4EhheGrumz/59m+L8w4leNaO58xEQFL+N9XINzlzxN+o5m6rZEWlef7GR2UcFBqX4xxyBUpqJTHnwJk0UrRcFctdniue4gxScLJFDhQKPkqxlGQjei3xzblNHq1/BcgX5tR5Uov1EZzDhlIucr3DHm5qqkoC9UpZI/aAmJ1hlQ7lYnWTur0pVUqo/9VfcKCvsx+5bcCF57w5bbVJg/B6CqpVCalkEI7AIxlbp7f5dYUMt5BHYcgs6BszUL/fTBd6rCRnZdWcAVt5+smFgZ/RpjPAPN4pQ5fr8hDvvH3dW1MVlhcnqF9FcQbSWkCzK4rmYJJkbac3uHU6qf04Pc4c56FTiXDOLfERBlAELyvptkR9UtZx+KiyRakn36znRWk=" 
+   }     
       
 
    ],
